@@ -2,6 +2,6 @@
 
 <p align="center">
 4th year Computer Science student · Specializing in Information Systems  
-Erasmus student in Rome · Passionate about software, systems and learning by building  
+Erasmus student in Rome · Passionate about software, systems and learning by building practical cases  
 </p>
 
