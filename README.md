@@ -2,6 +2,6 @@
 
 <p align="center">
 Freshly new Computer Scientist  · Specialized in Information Systems  
-Passionate about software, systems and learning by building practical cases  
+· Passionate about software, systems and learning by building practical cases  
 </p>
 
